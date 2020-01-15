@@ -1,0 +1,48 @@
+.cover{
+    background-image: url(gallery/amos.JPG) ;
+    background-position: center center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:100vh
+}
+.cover .container{
+    padding-top:36%
+}
+.container .cover-content{
+    background-color: white;
+    padding:30px;
+}
+.cover-content div{
+    color: white;
+    background-color: maroon;
+    margin-top: 10px;
+    padding: 20px;
+    border-radius:5px;
+}
+.values{
+    background-image: url(gallery/bg.png) ;
+    background-position: center center;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.values .container{
+    padding-top: 9%
+}
+.team{
+    height: 100vh
+}
+.team .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+      color: white;
+  }
+  .team h2 {
+    font-weight: 400;
+  }
+  .team .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
